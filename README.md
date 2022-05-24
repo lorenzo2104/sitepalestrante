@@ -4,7 +4,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - CSS3
 - HTML5
-<p>Projeto de portfólio muito interativo.</p>
 <p>Acesse o link abaixo do site para poder ver melhor!</p>
 <p>https://sitepalestrante.netlify.app/</p>
 
